@@ -1,0 +1,1 @@
+In this assignment on task was given for completion, the goal of the task was to implement a tic tac toe game with a 5x5 board. The game is to be played by two players and also have an option for singleplayer mode which is vs a computer.  The first player plays with ‘X’ and the second player plays with ‘O’. The objective is to place 5 markers in a line to win.

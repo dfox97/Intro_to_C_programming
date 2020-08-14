@@ -1,0 +1,3 @@
+First group project in programming
+Our project was to design an airline reservation system which included three different roles; Manager, ticket agent and data admin.
+The report below shows how our code would work if the program ran perfectly, due to time constraints we couldn’t manage to get all the code working properly. Therefore the report was written as if the code works and then we have stated in testing and constraints what does and doesn’t work in the code , and also why things didn’t work.
